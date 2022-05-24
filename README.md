@@ -14,6 +14,7 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 6. Boot automatique en Guest-Only
 7. Installation automatique de l'**OS**
 8. Avoir une **arborescence de versions**
+9. Fichier d'explication *.md*
 
 ### Nous avons : :memo:
 1. Serveurs DHCP et TFTP :heavy_check_mark:
@@ -26,7 +27,8 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 ```
 %path% unattended install "%MachineName%" --iso "C:\Users\Admin\Documents\ISO\debian.iso" --user=user --full-user-name="user" --password "user" --country=FR --package-selection-adjustment=minimal --language=FR
 ```
-8. [**Arborescence de versions**](https://github.com/U45842209/SAE21) :heavy_check_mark:
+8. [**Arborescence de versions**](https://github.com/U45842209/SAE21/releases) :heavy_check_mark:
+9. [Fichier d'explication](https://github.com/U45842209/SAE21) *.md* :heavy_check_mark:
 
 ### Problèmes rencontrés : :memo:
 * Nous avons rencontré des problèmes sur le boot automatique en Guest-Only, nous n'arrivons pas à installer l'iso *VBoxGuestAdditions* sur les VMs donc impossible pour nous de faire cet exercice.
