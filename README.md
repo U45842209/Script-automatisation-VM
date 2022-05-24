@@ -24,7 +24,7 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 6. Boot automatique en Guest-Only :x:
 7. Installation automatique de l'**OS** :heavy_exclamation_mark:
 ```
-%path% unattended install "%MachineName%" --iso "C:\Users\Admin\Documents\ISO\debian.iso" --user=user --full-user-name="Marc" --password "123456789" --country=EN --package-selection-adjustment=minimal --language=FR
+%path% unattended install "%MachineName%" --iso "C:\Users\Admin\Documents\ISO\debian.iso" --user=user --full-user-name="user" --password "user" --country=FR --package-selection-adjustment=minimal --language=FR
 ```
 8. **Arborescence de versions** :heavy_check_mark:
 
