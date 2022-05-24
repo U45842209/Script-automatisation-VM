@@ -16,11 +16,11 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 
 ### Nous avons :
 
-1. Serveurs DHCP et TFTP
-2. Variable *path* pour **VBoxManage**
-3. Script **Batch** ou **Shell**
-4. **Gestion des erreurs**
-5. Boot **PXE**
-6. Boot automatique en Guest-Only
-7. Installation automatique de l'**OS**
-8. **arborescence de versions**
+1. Serveurs DHCP et TFTP :heavy_check_mark:
+2. Variable *path* pour **VBoxManage** :heavy_check_mark:
+3. Script **Batch** ou **Shell** :heavy_check_mark:
+4. **Gestion des erreurs** :heavy_check_mark:
+5. Boot **PXE** :heavy_check_mark:
+6. Boot automatique en Guest-Only :x:
+7. Installation automatique de l'**OS** :warning:
+8. **arborescence de versions** :heavy_check_mark:
