@@ -8,8 +8,9 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 1. Créer un serveur TFTP et DHCP
 2. Créer une variable *Path* pour VBoxManage
 3. Créer un script **Batch** ou shell
-<p>Faire en sorte d'avoir une arborescence des versions créée</p>
+
 4. **Gestion des erreurs** du script
 5. Boot PXE
 6. Boot automatique en Guest-Only
 7. Installation automatique de l'OS
+8. Avoir une arborescence de versions
