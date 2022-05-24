@@ -36,9 +36,9 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 * L'installation de l'OS automatique fonctionne mais seulement pour **Ubuntu** et on ne sait pas pourquoi donc nous supposons que il y a un problème de compatibilitée
 
 ### Mode d'emploi : :memo:
-#### GenVM_3.bat {[-D] [-L] [-S] [-D] [-A]} {Machine Name}
+#### GenVM_3.bat {[-D] [-L] [-S] [-D] [-A]} {Nom de la Machine}
 * **-D** pour démarrer une machine
 * **-A** pour arreter une machine
 * **-S** pour supprimer une machine
-* **-N** pour ajouter une nouvelle machin
-* **-L** pour lister l’ensemble des machines enregistr ́ees dans VB
+* **-N** pour ajouter une nouvelle machine
+* **-L** pour lister l’ensemble des machines enregistrées dans VB
