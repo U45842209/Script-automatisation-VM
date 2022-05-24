@@ -1,5 +1,6 @@
-##### Marc TAHON-DUJARDIN :fr:
-##### Louis BEGHIN :fr:
+##### Marc TAHON-DUJARDIN
+##### Louis BEGHIN
+##### Groupe : :a:
 ## SAE21
 Vous êtes employé dans la DSI d’une entreprise type PME. Cette société renouvelle son infra-structure IT, et le chef de service vous demande d’automatiser la création d’une maquette de la future infra, via un script de pilotage.
 
@@ -22,4 +23,4 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 5. Boot **PXE** :heavy_check_mark:
 6. Boot automatique en Guest-Only :x:
 7. Installation automatique de l'**OS** :heavy_exclamation_mark:
-8. **arborescence de versions** :heavy_check_mark:
+8. **Arborescence de versions** :heavy_check_mark:
