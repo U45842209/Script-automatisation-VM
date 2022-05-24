@@ -27,6 +27,7 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 %path% unattended install "%MachineName%" --iso "C:\Users\Admin\Documents\ISO\debian.iso" --user=user --full-user-name="user" --password "user" --country=FR --package-selection-adjustment=minimal --language=FR
 ```
 8. **Arborescence de versions** :heavy_check_mark:
+[Link]('https://github.com/U45842209/SAE21')
 
 ### Problèmes rencontrés : :memo:
 * Nous avons rencontré des problèmes sur le boot automatique en Guest-Only, nous n'arrivons pas à installer l'iso *VBoxGuestAdditions* sur les VMs donc impossible pour nous de faire cet exercice.
