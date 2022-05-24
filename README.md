@@ -1,9 +1,9 @@
-##### Marc TAHON-DUJARDIN
-##### Louis BEGHIN
+##### Marc TAHON-DUJARDIN :fr:
+##### Louis BEGHIN :fr:
 ## SAE21
 Vous êtes employé dans la DSI d’une entreprise type PME. Cette société renouvelle son infra-structure IT, et le chef de service vous demande d’automatiser la création d’une maquette de la future infra, via un script de pilotage.
 
-### Nous devions :
+### Nous devions : :memo:
 Pour cette SAE nous devions créer un script qui afin de mieux gerer la création des VMs, devait automatiser ce processus.
 1. Créer des serveurs **TFTP** et **DHCP**
 2. Créer une variable *Path* pour **VBoxManage**
@@ -14,8 +14,7 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 7. Installation automatique de l'**OS**
 8. Avoir une **arborescence de versions**
 
-### Nous avons :
-
+### Nous avons : :memo:
 1. Serveurs DHCP et TFTP :heavy_check_mark:
 2. Variable *path* pour **VBoxManage** :heavy_check_mark:
 3. Script **Batch** ou **Shell** :heavy_check_mark:
