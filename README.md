@@ -28,8 +28,9 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 %path% unattended install "%MachineName%" --iso "C:\Users\Admin\Documents\ISO\debian.iso" --user=user --full-user-name="user" --password "user" --country=FR --package-selection-adjustment=minimal --language=FR
 ```
 8. [**Arborescence de versions**](https://github.com/U45842209/SAE21/releases) :heavy_check_mark:
-9. [Fichier d'explication](https://github.com/U45842209/SAE21) *.md* :heavy_check_mark:
+9. [**Fichier d'explication**](https://github.com/U45842209/SAE21) *.md* :heavy_check_mark:
 
 ### Problèmes rencontrés : :memo:
 * Nous avons rencontré des problèmes sur le boot automatique en Guest-Only, nous n'arrivons pas à installer l'iso *VBoxGuestAdditions* sur les VMs donc impossible pour nous de faire cet exercice.
-* Nous avons eu des problèmes avec les serveurs DHCP et TFTP pour le boot PXE, car le medium était *introuvable*, mais le problèmes est résolut.
+* Nous avons eu des problèmes avec les serveurs DHCP et TFTP pour le boot PXE, car le medium était *introuvable*, mais le problème est résolut.
+* L'installation de l'OS automatique fonctionne mais seulement pour **Ubuntu** et on ne sait pas pourquoi donc nous supposons que il y a un problème de compatibilitée
