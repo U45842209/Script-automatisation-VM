@@ -5,7 +5,7 @@ Vous êtes employé dans la DSI d’une entreprise type PME. Cette société ren
 
 ### Nous devions :
 Pour cette SAE nous devions créer un script qui afin de mieux gerer la création des VMs, devait automatiser ce processus.
-1. Créer un serveur **TFTP** et **DHCP**
+1. Créer des serveurs **TFTP** et **DHCP**
 2. Créer une variable *Path* pour **VBoxManage**
 3. Créer un script **Batch** ou **Shell**
 4. **Gestion des erreurs** du script
@@ -13,3 +13,14 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 6. Boot automatique en Guest-Only
 7. Installation automatique de l'**OS**
 8. Avoir une **arborescence de versions**
+
+### Nous avons :
+
+1. Serveurs DHCP et TFTP
+2. Variable *path* pour **VBoxManage**
+3. Script **Batch** ou **Shell**
+4. **Gestion des erreurs**
+5. Boot **PXE**
+6. Boot automatique en Guest-Only
+7. Installation automatique de l'**OS**
+8. **arborescence de versions**
