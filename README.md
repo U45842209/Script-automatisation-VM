@@ -24,3 +24,7 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 6. Boot automatique en Guest-Only :x:
 7. Installation automatique de l'**OS** :heavy_exclamation_mark:
 8. **Arborescence de versions** :heavy_check_mark:
+
+### Problèmes rencontrés :
+* Nous avons rencontré des problèmes sur le boot automatique en Guest-Only, nous n'arrivons pas à installer l'iso *VBoxGuestAdditions* sur les VMs donc impossible pour nous de faire cet exercice.
+* Nous avons eu des problèmes avec les serveurs DHCP et TFTP pour le boot PXE, car le medium était *introuvable*, mais le problèmes est résolut.
