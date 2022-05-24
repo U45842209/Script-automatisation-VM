@@ -34,3 +34,11 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 * Nous avons rencontré des problèmes sur le boot automatique en Guest-Only, nous n'arrivons pas à installer l'iso *VBoxGuestAdditions* sur les VMs donc impossible pour nous de faire cet exercice.
 * Nous avons eu des problèmes avec les serveurs DHCP et TFTP pour le boot PXE, car le medium était *introuvable*, mais le problème est résolut.
 * L'installation de l'OS automatique fonctionne mais seulement pour **Ubuntu** et on ne sait pas pourquoi donc nous supposons que il y a un problème de compatibilitée
+
+### Mode d'emploi : :memo:
+####GenVM_3.bat {[-D] [-L] [-S] [-D] [-A]} {Machine Name}
+* **-D** pour démarrer une machine
+* **-A** pour arreter une machine
+* **-S** pour supprimer une machine
+* **-N** pour ajouter une nouvelle machin
+* **-L** pour lister l’ensemble des machines enregistr ́ees dans VB
