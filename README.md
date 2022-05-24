@@ -22,5 +22,5 @@ Pour cette SAE nous devions créer un script qui afin de mieux gerer la créatio
 4. **Gestion des erreurs** :heavy_check_mark:
 5. Boot **PXE** :heavy_check_mark:
 6. Boot automatique en Guest-Only :x:
-7. Installation automatique de l'**OS** :warning:
+7. Installation automatique de l'**OS** :heavy_exclamation_mark:
 8. **arborescence de versions** :heavy_check_mark:
