@@ -35,7 +35,7 @@ if "%2"=="" (
 goto getError_code_2
 )
 if not "%2%"=="" ( 
-goto goto getStart
+goto getStart
 ))
 
 if "%1"=="-A" (
@@ -43,7 +43,7 @@ if "%2"=="" (
 goto getError_code_2
 )
 if not "%2%"=="" ( 
-goto goto getStop
+goto getStop
 ))
 
 goto getError_code_0
